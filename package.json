@@ -1,0 +1,15 @@
+{
+  "name": "sri_aura_wellness",
+  "version": "1.0.0",
+  "description": "Sri Aura Wellness - Luxury Hair, Beauty & Spa Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Sri Aura Wellness",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
